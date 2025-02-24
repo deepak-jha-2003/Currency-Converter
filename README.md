@@ -56,6 +56,7 @@ ExchangeRate API: Source of real-time exchange rate data
 ## API Information
 
 Base URL: https://open.er-api.com/v6/latest
+
 The API provides the latest exchange rates for a base currency.
 
 ## Notes
