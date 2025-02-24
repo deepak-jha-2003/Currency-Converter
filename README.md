@@ -27,9 +27,8 @@ ExchangeRate API: Source of real-time exchange rate data
 ## Setup Instructions
 
 1. **Clone this repository** :
-   ```
-  git clone https://github.com/deepak-jha-2003/Currency-Converter
-    
+   ```sh
+  git clone https://github.com/deepak-jha-2003/Currency-Converter.   
 2. Include the required codes.js file in your project. This file contains the countryList object with currency codes and corresponding country codes for flag display.
 3. Open the project folder in your code editor.
 4. Run the application locally by opening the index.html file in a web
